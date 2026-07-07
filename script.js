@@ -1,4 +1,4 @@
-unction gerarSenha() {
+function gerarSenha() {
 
 const email = document.getElementById("email").value.trim().toLowerCase();
 
